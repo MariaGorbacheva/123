@@ -1,3 +1,8 @@
  new line
+<<<<<<< HEAD
 testing line
  456 
+=======
+ untesting file
+ 456 
+>>>>>>> affca6f9e02a04dd3d27f8f25a4ea02b744d0b2e
