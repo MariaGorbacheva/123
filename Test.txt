@@ -1,12 +1,6 @@
- new line
-<<<<<<< HEAD
-<<<<<<< HEAD
+new line
 testing line
- 456 
-=======
- untesting file
-=======
- untesting file once again
->>>>>>> d6a41abc1997d1f578f097e2519e2c6838061eb6
- 456 
->>>>>>> affca6f9e02a04dd3d27f8f25a4ea02b744d0b2e
+456 
+untesting file
+untesting file once again
+456 
